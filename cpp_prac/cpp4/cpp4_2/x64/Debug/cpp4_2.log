@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Project\C\C-Primer-Plus\cpp_prac\cpp4\cpp4_2\main.c(20,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  cpp4_2.vcxproj -> D:\Project\C\C-Primer-Plus\cpp_prac\cpp4\cpp4_2\x64\Debug\cpp4_2.exe
